@@ -12,3 +12,5 @@ console.log(impapar(4));
 console.log(impapar(7));
 
 /*Qual será a saída no console quando o código acima for executado?*/
+
+/*Resposta: a saída no console será "par, ímpar" nesta ordem.*/

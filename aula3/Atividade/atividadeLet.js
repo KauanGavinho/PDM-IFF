@@ -14,3 +14,5 @@ function Let() {
 Let();
 
 /*Qual será a saída no console quando a função Let() for chamada?*/
+
+/*Resposta: a saída no console será "Dentro do bloco: 20, Fora do bloco: 10" nesta ordem.*/
